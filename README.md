@@ -11,6 +11,8 @@ Article on LSTM neural nets:
 
 ## Papers
 
+Pixie: Pinterests' real-time recommendation engine
+* https://blog.acolyer.org/2018/05/23/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time/
 
 ## Videos
 
