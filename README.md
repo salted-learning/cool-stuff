@@ -6,6 +6,9 @@ Place for interesting articles, papers, videos or blogs
 Understanding LSTM neural nets:
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+Color Palettes (for data visualizations...so data related!!!)
+* https://www.canva.com/learn/100-color-combinations/
+
 ## Blogs
 
 
