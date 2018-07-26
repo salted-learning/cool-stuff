@@ -9,6 +9,9 @@ Understanding LSTM neural nets:
 Color Palettes (for data visualizations...so data related!!!)
 * https://www.canva.com/learn/100-color-combinations/
 
+Repo w/ tons of resources for Dash
+* https://github.com/Acrotrend/awesome-dash
+
 ## Blogs
 
 
