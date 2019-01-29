@@ -12,6 +12,17 @@ Color Palettes (for data visualizations...so data related?)
 Repo w/ tons of resources for Dash
 * https://github.com/Acrotrend/awesome-dash
 
+Multi-Armed Bandit
+* https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/
+* https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
+* https://www.analyticsvidhya.com/blog/2018/09/reinforcement-multi-armed-bandit-scratch-python/
+
+Quantile Treatment Efffects - A/B Testing
+* https://eng.uber.com/analyzing-experiment-outcomes/
+
+Forecasting
+* https://eng.uber.com/forecasting-introduction/
+
 ## Blogs
 
 
